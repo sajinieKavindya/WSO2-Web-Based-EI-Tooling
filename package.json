@@ -18,9 +18,7 @@
 		"languages": [
 			{
 				"id": "SynapseXml",
-				"extensions": [
-					
-				]
+				"extensions": []
 			}
 		],
 		"grammars": [
@@ -30,9 +28,7 @@
 				"path": "./syntaxes/xml.tmLanguage.json"
 			}
 		],
-		"commands": [
-		
-		]
+		"commands": []
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
